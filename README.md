@@ -25,7 +25,7 @@
 
 ## Layout
 
-Você pode visualizar o layout do projeto através  [DESSE LINK](https://www.figma.com/file/GWPlGl49M4GO0OpVHHRqFV/Calend%C3%A1rio-de-Jogos-(Community). É necessário ter conta no Figma para acessá-lo.
+Você pode visualizar o layout do projeto através  DESSE LINK (https://www.figma.com/file/GWPlGl49M4GO0OpVHHRqFV/Calend%C3%A1rio-de-Jogos-(Community). É necessário ter conta no Figma para acessá-lo.
 
 # 📧 Contato
 <a href="https://www.linkedin.com/in/cleo-morena-0328b9120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
