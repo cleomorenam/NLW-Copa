@@ -6,7 +6,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-![preview](.github/Preview.JPG) 
+![Preview](.github/Preview.JPG) 
 
 # 🛠️ Tecnologias
 <h4>Esse projeto foi desenvolvido com as seguintes tecnologias:</h4>
@@ -25,7 +25,7 @@
 
 ## Layout
 
-Você pode visualizar o layout do projeto através  DESSE LINK (https://www.figma.com/file/GWPlGl49M4GO0OpVHHRqFV/Calend%C3%A1rio-de-Jogos-(Community). É necessário ter conta no Figma para acessá-lo.
+Você pode visualizar o layout do projeto através  [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no Figma para acessá-lo.
 
 # 📧 Contato
 <a href="https://www.linkedin.com/in/cleo-morena-0328b9120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
