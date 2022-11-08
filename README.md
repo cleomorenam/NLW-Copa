@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto de calendário pessoal da Copa 2022 </h1>
+<h1 align="center">Projeto de calendário pessoal da Copa 2022</h1>
 
 # Evento promovido de forma gratuita pela Rocketseat
 
